@@ -1,11 +1,13 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\DataKamarController;
 use App\Http\Controllers\DataReservasiController;
 use App\Http\Controllers\FasilitasHotelController;
 use App\Http\Controllers\FasilitasKamarController;
 use App\Http\Controllers\PemesananController;
+
 
 /*
 |--------------------------------------------------------------------------
