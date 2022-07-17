@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(0, 0, 0, 0.644);
+}
+
+.ket {
+    margin-left: 120px;
+    color: black;
+}
+
+.kett {
+    margin-left: 120px;
+    color: black;
+}
+
+.footer-bottom{
+	width: 100%;
+	height: 70px;
+	color: white;
+	background: rgba(30, 30, 34, 0.904);
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+
